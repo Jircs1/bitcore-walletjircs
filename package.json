@@ -15,8 +15,8 @@
   },
   "bugs": {},
   "dependencies": {
-    "async": "^2.6.1",
-    "bitcore-wallet-client": "^6.8.1",
+    "async": "^3.0.0",
+    "bitcore-wallet-client": "^8.23.0",
     "commander": "^2.6.0",
     "lodash": "^4.17.11",
     "moment": "^2.9.0",
